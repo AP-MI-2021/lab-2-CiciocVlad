@@ -55,7 +55,7 @@ def get_largest_prime_below(n):
 
 
 def main():
-    # user console
+    #console
     test_is_antipalindrome()
     test_get_perfect_squares()
     while (option := menu()) != 4:
